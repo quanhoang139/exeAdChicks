@@ -1,5 +1,5 @@
 # ADVENTURE CHICKS
-*Dự án game cuối kì Lập trình nâng cao INT2215 1* 
+_Dự án game cuối kì Lập trình nâng cao INT2215 1 kì 2 năm học 2021-2022_
 --------------------------
 Xin chào các bạn, mình tên là Hoàng Mạnh Quân. Trong project này, mình làm về tựa game [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) ở trong game Gunny. Ngôn ngữ được sử dụng là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
 
