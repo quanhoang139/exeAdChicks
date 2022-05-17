@@ -2,7 +2,7 @@
 ### Hoàng Mạnh Quân - 21020786
 ---------------------------
   Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
-
+    Hoàng Mạnh Quân
 ### 1. Hướng dẫn cài đặt:
 
 - Bước 1: Cài đặt SDL2 vào Code Block theo như [Hướng dẫn](https://www.youtube.com/watch?v=kxi0TMXEG3g)
@@ -10,7 +10,7 @@
 - Bước 3: Do trong project đã có sẵn file .dll nên chỉ cần run và chơi game thôi
   
 ### 2. Mô tả chung:
-    Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
+  Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
   Chọn các ô để gà con di chuyển đến, khi đến nơi lớp cỏ sẽ được mở ra.
   Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. 
   Trả lời đúng sẽ được an toàn, trả lời sai hoặc hết thời gian trả lời sẽ bị trừ 1 mạng.
