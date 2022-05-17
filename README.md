@@ -35,9 +35,15 @@ Mục tiêu của game là đạt được số điểm cao nhất có thể. 3 
 - Cấu trúc, lớp: Xây dựng một số cấu trúc để lưu tọa độ (x và y), cấu trúc câu hỏi (bao gồm câu hỏi, các đáp án, đáp án đúng, lựa chọn của người chơi)
 - Nạp chồng toán tử để so sánh các tọa độ.
 - Chia code thành các file: window (xử lý khởi tạo, đóng SDL, chứa game loop), core (chứa việc xử lý các sự kiện cũng như logic game), Texture (xử lý việc hiển thị ảnh và text), Button (xử lý việc hiển thị các nút, thay đổi trạng thái nút), Sound (xử lý phát, dừng âm thanh game), Time (xử lý vấn đề thời gian cho game).
+- Photoshop: Cắt ghép ảnh, tách nhân vật từ ảnh game gốc.
 
 ### Kết luận:
-
+Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian làm game.
+**Điều tâm đắc:**
+Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn trong Chương trình giáo dục phổ thông mới đã làm dấy lên nhiều tranh cãi.
+**Các hướng phát triển trong tương lai:**
+- Nâng cao hơn kĩ năng photoshop để có đồ họa đẹp hơn cho game.
+- Phát triển các gói câu hỏi phong phú hơn nữa, mở rộng các lĩnh vực khác.
 
 ### Đánh giá của mình
 *Mục này dành cho thầy cô chấm, các bạn cũng có thể xem*    
