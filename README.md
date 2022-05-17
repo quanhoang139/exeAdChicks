@@ -3,8 +3,6 @@ _Hoàng Mạnh Quân - 21020786_
 --------------------------
 Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
 
-Mục tiêu của game là đạt được số điểm cao nhất có thể. 3 người đạt được số điểm cao nhất ở mỗi độ khó sẽ được lưu lại.
-
 ### Hướng dẫn cài đặt:
 
 - Bước 1: Cài đặt SDL2 vào Code Block theo như [Hướng dẫn](https://www.youtube.com/watch?v=kxi0TMXEG3g)
