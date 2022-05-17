@@ -34,7 +34,7 @@ Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https:
 - Cấu trúc, lớp: Xây dựng một số cấu trúc để lưu tọa độ (x và y), cấu trúc câu hỏi (bao gồm câu hỏi, các đáp án, đáp án đúng, lựa chọn của người chơi)
 - Nạp chồng toán tử để so sánh các tọa độ.
 - Chia code thành các file: window (xử lý khởi tạo, đóng SDL, chứa game loop), core (chứa việc xử lý các sự kiện cũng như logic game), Texture (xử lý việc hiển thị ảnh và text), Button (xử lý việc hiển thị các nút, thay đổi trạng thái nút), Sound (xử lý phát, dừng âm thanh game), Time (xử lý vấn đề thời gian cho game).
-- Photoshop: Cắt ghép ảnh, tách nhân vật từ ảnh game gốc.
+- Photoshop: Cắt ghép ảnh, tách nhân vật từ ảnh game gốc cũng như chỉnh sửa các ảnh trên mạng theo ý thích để đưa vào game.
 
 ### 5. Kết luận:
 Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian làm game.
