@@ -7,7 +7,9 @@ Mục tiêu của game là đạt được số điểm cao nhất có thể. 3 
 
 ### Hướng dẫn cài đặt:
 
-  
+- Bước 1: Cài đặt SDL2 vào Code Block như [Hướng dẫn](https://www.youtube.com/watch?v=kxi0TMXEG3g)
+- Tải project game về và mở file Adventure_Chicks.cpb bằng Code Block
+- Do trong project đã có sẵn file .dll nên chỉ cần run và chơi game thôi
   
 ### Mô tả chung:
   
