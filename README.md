@@ -1,7 +1,7 @@
 # Adventure Chicks (Gà con mạo hiểm)
-_Hoàng Mạnh Quân - 21020786_
---------------------------
-Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
+### Hoàng Mạnh Quân - 21020786
+---------------------------
+Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
 
 ### 1. Hướng dẫn cài đặt:
 
@@ -11,8 +11,9 @@ Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https:
   
 ### 2. Mô tả chung:
   Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
-  Chọn các ô để gà con di chuyển đến, khi đến nơi lớp cỏ sẽ được mở ra. 
-  Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. Trả lời đúng sẽ được an toàn, trả lời sai hoặc hết thời gian trả lười sẽ bị trừ 1 mạng.
+  Chọn các ô để gà con di chuyển đến, khi đến nơi lớp cỏ sẽ được mở ra.
+  Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. 
+  Trả lời đúng sẽ được an toàn, trả lời sai hoặc hết thời gian trả lời sẽ bị trừ 1 mạng.
   Trò chơi kết thúc khi bạn bị trừ hết 2 mạng. 
   
 ### 3. Các chức năng:
@@ -22,9 +23,11 @@ Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https:
 - Hủy cờ (Remove Flag): Với những ô đang có cờ, nếu muốn bỏ cờ để gà con có thể đi vào ô đó thì dùng nút này.
 - Dò mìn (Minesweeper): Mở 1 có chứa bom ở xung quanh vị trí hiện tại của gà con mà không phải trả lời câu hỏi hay mất mạng.
 - Trả lời câu hỏi: Nhấn vào các ô chứa đáp án A, B, C, D để trọn đáp án. Trả lời sai hoặc hết thời gian đếm ngược nhưng chưa trả lười sẽ bị mất 1 mạng.
-- Xem bảng thành tích: Mỗi độ khó sẽ hiển thị top 3 lần chơi có thành tích cao nhất. Thành tích sẽ được bảo toàn kể cả khi thoát game và chạy lại.
 - Chức năng tắt nhạc: Khi nhấn vào sẽ dừng phát nhạc nền
 - Chức năng tắt hiệu ứng âm thanh: Khi nhấn vào sẽ tắt các âm thanh nhấn nút, click, tiếng bom nổ, ...
+- Xem bảng thành tích: Mỗi độ khó sẽ hiển thị top 3 lần chơi có thành tích cao nhất. Thành tích sẽ được bảo toàn kể cả khi thoát game và chạy lại.
+- Xem thông tin trò chơi: Khi nhấn nút này sẽ mở file README.md trên github.
+
 
 ### 4. Các kĩ thuật sử dụng:
 - Thư viện đồ họa SDL2: Sử dụng hiển thị ảnh, chữ, phát âm thanh. Do game chỉ xử dụng sự kiện chuột nên cũng khá khó khăn xong việc xử lý xử kiện theo đúng logic game.
