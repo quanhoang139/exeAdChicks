@@ -13,10 +13,18 @@ Mục tiêu của game là đạt được số điểm cao nhất có thể. 3 
   
 ### Mô tả chung:
   Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
-  Chọn các ô để gà con di chuyển đến. Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. Trả lời đúng sẽ được an toàn, trả lười sai hoặc hết thời gian trả lười sẽ bị trừ 1 mạng.
+  Chọn các ô để gà con di chuyển đến. Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. Trả lời đúng sẽ được an toàn, trả lời sai hoặc hết thời gian trả lười sẽ bị trừ 1 mạng.
   Trò chơi kết thúc khi bạn bị trừ hết 2 mạng. 
   
 ### Các chức năng:
+- Chọn độ khó: Độ khó khác nhau thì số lượng bom trên bản đồ sẽ khác nhau.
+- Đặt cờ (Set Flag): Dựa vào con số hiển thị trên đầu gà (số lượng bom xung quanh) để tính toán các ô có bom. Việc đặt cờ sẽ giúp đánh dấu lại những ô có bom để không cho gà con đi đến ô đó nữa.
+- Hủy cờ (Remove Flag): Với những ô đang có cờ, nếu muốn bỏ cờ để gà con có thể đi vào ô đó thì dùng nút này.
+- Dò mìn (Minesweeper): Mở 1 có chứa bom ở xung quanh vị trí hiện tại của gà con mà không phải trả lời câu hỏi hay mất mạng.
+- Trả lời câu hỏi: Nhấn vào các ô chứa đáp án A, B, C, D để trọn đáp án. Trả lời sai hoặc hết thời gian đếm ngược nhưng chưa trả lười sẽ bị mất 1 mạng.
+- Xem bảng thành tích: Mỗi độ khó sẽ hiển thị top 3 lần chơi có thành tích cao nhất. Thành tích sẽ được bảo toàn kể cả khi thoát game và chạy lại.
+- Chức năng tắt nhạc: Khi nhấn vào sẽ dừng phát nhạc nền
+- Chức năng tắt hiệu ứng âm thanh: Khi nhấn vào sẽ tắt các âm thanh nhấn nút, click, tiếng bom nổ, ...
 
 ### Các kì thuật sử dụng:
 - Mảng 2 chiều: dùng để lưu trữ trạng thái hiển thị của các ô bom, cỏ, cờ.
