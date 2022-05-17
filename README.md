@@ -46,4 +46,4 @@ Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn t
 **-Các hướng phát triển trong tương lai:**
 
 - Nâng cao hơn kĩ năng photoshop để có đồ họa đẹp hơn cho game.
-- Phát triển các gói câu hỏi phong phú hơn nữa, mở rộng các lĩnh vực khác.
+- Phát triển các gói câu hỏi phong phú hơn nữa, mở rộng các lĩnh vực khác mà người dùng có thể chọn (như chọn môn, chọn lớp phù hợp với mình).
