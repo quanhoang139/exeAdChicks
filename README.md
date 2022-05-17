@@ -12,6 +12,9 @@ Mục tiêu của game là đạt được số điểm cao nhất có thể. 3 
 - Bước 3: Do trong project đã có sẵn file .dll nên chỉ cần run và chơi game thôi
   
 ### Mô tả chung:
+  Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
+  Chọn các ô để gà con di chuyển đến. Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. Trả lời đúng sẽ được an toàn, trả lười sai hoặc hết thời gian trả lười sẽ bị trừ 1 mạng.
+  Trò chơi kết thúc khi bạn bị trừ hết 2 mạng. 
   
 ### Các chức năng:
 
