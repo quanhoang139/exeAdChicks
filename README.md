@@ -48,4 +48,3 @@ Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn t
 
 - Nâng cao hơn kĩ năng photoshop để có đồ họa đẹp hơn cho game.
 - Phát triển các gói câu hỏi phong phú hơn nữa, mở rộng các lĩnh vực khác.
-.
