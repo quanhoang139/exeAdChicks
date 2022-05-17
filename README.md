@@ -30,8 +30,8 @@ Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunn
 
 
 ### 4. Các kĩ thuật sử dụng:
-- Thư viện đồ họa SDL2: Sử dụng hiển thị ảnh, chữ, phát âm thanh. Do game chỉ xử dụng sự kiện chuột nên cũng khá khó khăn xong việc xử lý xử kiện theo đúng logic game.
-- Mảng 2 chiều: dùng để lưu trữ trạng thái hiển thị của các ô bom, cỏ, cờ.
+- Thư viện đồ họa SDL2: Sử dụng hiển thị ảnh, chữ, phát âm thanh. Do game chỉ xử dụng sự kiện chuột nên cũng khá khó khăn xong việc xử lý xử kiện theo đúng logic game, tránh thừa hay rớt phím.
+- Mảng 2 chiều: dùng để lưu trữ trạng thái hiển thị của các ô bom, cỏ, cờ trên vùng chứa các ô di chuyển của gà.
 - Fps: Đặt fps cố định là 25 khung hình trên giây để cho gà con di chuyển một cách ổn định, dễ nhìn.
 - Đọc, in dữ liệu ra file: dùng để lưu trữ dữ liệu thành tích, tránh bị mất mỗi lần chạy game.
 - Cấu trúc, lớp: Xây dựng một số cấu trúc để lưu tọa độ (x và y), cấu trúc câu hỏi (bao gồm câu hỏi, các đáp án, đáp án đúng, lựa chọn của người chơi)
