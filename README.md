@@ -16,7 +16,7 @@ Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https:
   Trò chơi kết thúc khi bạn bị trừ hết 2 mạng. 
   
 ### 3. Các chức năng:
-- Video minh họa: [Adventure Chick]
+- Video minh họa: [Adventure Chick](https://www.google.com/)
 - Chọn độ khó: Độ khó khác nhau thì số lượng bom trên bản đồ sẽ khác nhau.
 - Đặt cờ (Set Flag): Dựa vào con số hiển thị trên đầu gà (số lượng bom xung quanh) để tính toán các ô có bom. Việc đặt cờ sẽ giúp đánh dấu lại những ô có bom để không cho gà con đi đến ô đó nữa.
 - Hủy cờ (Remove Flag): Với những ô đang có cờ, nếu muốn bỏ cờ để gà con có thể đi vào ô đó thì dùng nút này.
