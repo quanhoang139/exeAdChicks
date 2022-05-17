@@ -39,9 +39,13 @@ Mục tiêu của game là đạt được số điểm cao nhất có thể. 3 
 
 ### Kết luận:
 Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian làm game.
+
 **Điều tâm đắc:**
+
 Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn trong Chương trình giáo dục phổ thông mới đã làm dấy lên nhiều tranh cãi.
+
 **Các hướng phát triển trong tương lai:**
+
 - Nâng cao hơn kĩ năng photoshop để có đồ họa đẹp hơn cho game.
 - Phát triển các gói câu hỏi phong phú hơn nữa, mở rộng các lĩnh vực khác.
 
