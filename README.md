@@ -42,6 +42,7 @@ Sau khi hoàn thành dự án game cuối kì này, em học được rất nhi�
 **-Điều tâm đắc:**
 
 Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn trong Chương trình giáo dục phổ thông mới đã làm dấy lên nhiều tranh cãi. Trong tác phẩm nổi tiếng “Lịch sử nước ta”, Bác Hồ đã từng viết "Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam". Bởi vậy trong game em đã dùng toàn bộ câu hỏi lịch sử, không phải những câu hỏi lịch sử khô khan để thi cử mà là những câu hỏi về dân tộc, về những vị anh hùng, danh nhân của nước ta. Với mong muốn vừa chơi vừa học, am hiểu hơn nữa về những truyền thuốc quý báu của dân tộc Việt Nam. "Học sinh chỉ chán học Lịch sử trên trường chứ không học sinh nào chán lịch sử dân tộc cả!".
+
 **-Các hướng phát triển trong tương lai:**
 
 - Nâng cao hơn kĩ năng photoshop để có đồ họa đẹp hơn cho game.
