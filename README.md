@@ -1,9 +1,29 @@
 # ADVENTURE CHICKS
-_Dự án game cuối kì Lập trình nâng cao INT2215 1 kì 2 năm học 2021-2022_
+_Dự án game cuối kì INT2215 1 học kì 2 năm học 2021-2022_
 --------------------------
 Xin chào các bạn, mình tên là Hoàng Mạnh Quân. Trong project này, mình làm về tựa game [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) ở trong game Gunny. Ngôn ngữ được sử dụng là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
 
 Mục tiêu của game là đạt được số điểm cao nhất có thể. 3 người đạt được số điểm cao nhất ở mỗi độ khó sẽ được lưu lại.
+
+### Hướng dẫn cài đặt:
+
+  
+  
+### Mô tả chung:
+  
+### Các chức năng:
+
+### Các kì thuật sử dụng:
+- Mảng 2 chiều: dùng để lưu trữ trạng thái hiển thị của các ô bom, cỏ, cờ.
+- Đọc, in dữ liệu ra file: dùng để lưu trữ dữ liệu thành tích, tránh bị mất mỗi lần chạy game.
+- 
+### Kết luận:
+
+
+### Đánh giá của mình
+*Mục này dành cho thầy cô chấm, các bạn cũng có thể xem*    
+  Em (Mình) xin tự đánh giá 9 điểm. 
+  Em tự code game này, không có tham khảo ở đâu (em học dùng SDL2.0 qua lazyfoo thôi ạ). Do game này không public asset nên ảnh em chụp màn hình rồi dùng photoshop cắt ra. Âm thanh thì lấy được file giải nén của trò chơi.
 
 ### Cách chơi
   Game có cách chơi đơn giản. Dùng chuột di chuyển đến các ô hình mèo, click chuột vào hình mèo để ăn điểm.
