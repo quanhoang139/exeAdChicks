@@ -36,7 +36,7 @@ Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunn
 - Đọc, in dữ liệu ra file: dùng để lưu trữ dữ liệu thành tích, tránh bị mất mỗi lần chạy game.
 - Random để lấy ma trận bom cũng như chọn câu hỏi.
 - Cấu trúc, lớp: Xây dựng một số cấu trúc để lưu tọa độ (x và y), cấu trúc câu hỏi (bao gồm câu hỏi, các đáp án, đáp án đúng, lựa chọn của người chơi).
-- - Vector: Dùng lưu trữ các cấu trúc câu hỏi, có thể tăng giảm số lượng câu hỏi trong file text tùy ý. Trong 1 lần chơi, khi dùng xong câu nào hỏi đó thì xóa khỏi vector. Sang lần khác sẽ khôi phục lại vector ban đầu.
+- Vector: Dùng lưu trữ các cấu trúc câu hỏi, có thể tăng giảm số lượng câu hỏi trong file text tùy ý. Trong 1 lần chơi, khi dùng xong câu nào hỏi đó thì xóa khỏi vector. Sang lần khác sẽ khôi phục lại vector ban đầu.
 - Nạp chồng toán tử để so sánh các tọa độ.
 - Chia code thành các file: window (xử lý khởi tạo, đóng SDL, chứa game loop), core (chứa việc xử lý các sự kiện cũng như logic game), Texture (xử lý việc hiển thị ảnh và text), Button (xử lý việc hiển thị các nút, thay đổi trạng thái nút), Sound (xử lý phát, dừng âm thanh game), Time (xử lý vấn đề thời gian cho game).
 - Photoshop: Cắt ghép ảnh, tách nhân vật từ ảnh game gốc cũng như chỉnh sửa các ảnh trên mạng theo ý thích để đưa vào game.
