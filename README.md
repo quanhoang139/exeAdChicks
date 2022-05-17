@@ -1,7 +1,7 @@
 # Adventure Chicks (Gà con mạo hiểm)
 ### Hoàng Mạnh Quân - 21020786
 ---------------------------
-Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
+  Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
 
 ### 1. Hướng dẫn cài đặt:
 
@@ -10,7 +10,7 @@ Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunn
 - Bước 3: Do trong project đã có sẵn file .dll nên chỉ cần run và chơi game thôi
   
 ### 2. Mô tả chung:
-  Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
+    Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
   Chọn các ô để gà con di chuyển đến, khi đến nơi lớp cỏ sẽ được mở ra.
   Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. 
   Trả lời đúng sẽ được an toàn, trả lời sai hoặc hết thời gian trả lời sẽ bị trừ 1 mạng.
@@ -42,11 +42,11 @@ Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunn
 - Photoshop: Cắt ghép ảnh, tách nhân vật từ ảnh game gốc cũng như chỉnh sửa các ảnh trên mạng theo ý thích để đưa vào game.
 
 ### 5. Kết luận:
-Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian làm game.
+  Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian làm game.
 
 **- Điều tâm đắc:**
 
-Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn trong Chương trình giáo dục phổ thông mới đã làm dấy lên nhiều tranh cãi. Trong tác phẩm nổi tiếng “Lịch sử nước ta”, Bác Hồ đã từng viết "Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam". Bởi vậy trong game em đã dùng toàn bộ câu hỏi lịch sử, không phải những câu hỏi lịch sử khô khan để thi cử mà là những câu hỏi về dân tộc, về những vị anh hùng, danh nhân của nước ta. Với mong muốn vừa chơi vừa học, am hiểu hơn nữa về những truyền thuốc quý báu của dân tộc Việt Nam. "Học sinh chỉ chán học Lịch sử trên trường chứ không học sinh nào chán lịch sử dân tộc cả!".
+  Những ngày vừa qua, thông tin môn Lịch sử sẽ là môn tự chọn trong Chương trình giáo dục phổ thông mới đã làm dấy lên nhiều tranh cãi. Trong tác phẩm nổi tiếng “Lịch sử nước ta”, Bác Hồ đã từng viết "Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam". Bởi vậy trong game em đã dùng toàn bộ câu hỏi lịch sử, không phải những câu hỏi lịch sử khô khan để thi cử mà là những câu hỏi về dân tộc, về những vị anh hùng, danh nhân của nước ta. Với mong muốn vừa chơi vừa học, am hiểu hơn nữa về những truyền thuốc quý báu của dân tộc Việt Nam. "Học sinh chỉ chán học Lịch sử trên trường chứ không học sinh nào chán lịch sử dân tộc cả!".
 
 **- Các hướng phát triển trong tương lai:**
 
