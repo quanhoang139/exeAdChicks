@@ -3,19 +3,19 @@ _Hoàng Mạnh Quân - 21020786_
 --------------------------
 Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
 
-### Hướng dẫn cài đặt:
+### 1. Hướng dẫn cài đặt:
 
 - Bước 1: Cài đặt SDL2 vào Code Block theo như [Hướng dẫn](https://www.youtube.com/watch?v=kxi0TMXEG3g)
 - Bước 2: Tải project game về và mở file Adventure_Chicks.cpb bằng Code Block
 - Bước 3: Do trong project đã có sẵn file .dll nên chỉ cần run và chơi game thôi
   
-### Mô tả chung:
+### 2. Mô tả chung:
   Game có cách chơi đơn giản. Nhấn chuột để chọn các tính năng. 
   Chọn các ô để gà con di chuyển đến, khi đến nơi lớp cỏ sẽ được mở ra. 
   Nếu đi vào ô không có bom, bạn sẽ được cộng 1 điểm. Nếu đi vào ô có bom, bạn sẽ phải trả lời câu hỏi. Trả lời đúng sẽ được an toàn, trả lời sai hoặc hết thời gian trả lười sẽ bị trừ 1 mạng.
   Trò chơi kết thúc khi bạn bị trừ hết 2 mạng. 
   
-### Các chức năng:
+### 3. Các chức năng:
 - Video minh họa: [Adventure Chick]
 - Chọn độ khó: Độ khó khác nhau thì số lượng bom trên bản đồ sẽ khác nhau.
 - Đặt cờ (Set Flag): Dựa vào con số hiển thị trên đầu gà (số lượng bom xung quanh) để tính toán các ô có bom. Việc đặt cờ sẽ giúp đánh dấu lại những ô có bom để không cho gà con đi đến ô đó nữa.
@@ -26,7 +26,7 @@ Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https:
 - Chức năng tắt nhạc: Khi nhấn vào sẽ dừng phát nhạc nền
 - Chức năng tắt hiệu ứng âm thanh: Khi nhấn vào sẽ tắt các âm thanh nhấn nút, click, tiếng bom nổ, ...
 
-### Các kĩ thuật sử dụng:
+### 4. Các kĩ thuật sử dụng:
 - Thư viện đồ họa SDL2: Sử dụng hiển thị ảnh, chữ, phát âm thanh. Do game chỉ xử dụng sự kiện chuột nên cũng khá khó khăn xong việc xử lý xử kiện theo đúng logic game.
 - Mảng 2 chiều: dùng để lưu trữ trạng thái hiển thị của các ô bom, cỏ, cờ.
 - Fps: Đặt fps cố định là 25 khung hình trên giây để cho gà con di chuyển một cách ổn định, dễ nhìn.
@@ -36,7 +36,7 @@ Trong project này, mình làm về tựa minigame [Gà con mạo hiểm](https:
 - Chia code thành các file: window (xử lý khởi tạo, đóng SDL, chứa game loop), core (chứa việc xử lý các sự kiện cũng như logic game), Texture (xử lý việc hiển thị ảnh và text), Button (xử lý việc hiển thị các nút, thay đổi trạng thái nút), Sound (xử lý phát, dừng âm thanh game), Time (xử lý vấn đề thời gian cho game).
 - Photoshop: Cắt ghép ảnh, tách nhân vật từ ảnh game gốc.
 
-### Kết luận:
+### 5. Kết luận:
 Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian làm game.
 
 **-Điều tâm đắc:**
