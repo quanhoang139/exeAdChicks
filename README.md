@@ -1,7 +1,7 @@
 # Adventure Chicks (Gà con mạo hiểm)
 ### Hoàng Mạnh Quân - 21020786
 ---------------------------
-  Trong project này, mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
+  Project này, mình làm về minigame [Gà con mạo hiểm](https://gunnypc.zing.vn/huong-dan/tieu-hoc/ga-con-mao-hiem.html) trong game [Gunny](https://gunnypc.zing.vn/bianrungxanh). Ngôn ngữ được sử dụng trong game là [C++](https://vi.wikipedia.org/wiki/C%2B%2B) và sử dụng thư viện đồ họa [SDL2.0](https://www.libsdl.org/).
 
 ### 1. Hướng dẫn cài đặt:
 
